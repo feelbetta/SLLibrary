@@ -1,0 +1,2 @@
+# SLLibrary
+Plugin development library.
