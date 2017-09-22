@@ -1,0 +1,5 @@
+name: SLLibrary
+author: slees
+
+version: ${project.version}
+main: com.sllibrary.SLLibrary
